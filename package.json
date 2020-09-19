@@ -1,0 +1,9 @@
+{
+  "name": "ByteBank",
+  "version": "1.0.0",
+  "description": "projeto do ByteBank para os seus clientes",
+  "main": "index.js",
+  "author": "Alcimar Melo",
+  "license": "MIT",
+  "type": "module"
+}
